@@ -10,7 +10,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Roboto', sans-serif;
-    font-weight: ;
+    
     
 }
 form{
@@ -41,7 +41,7 @@ form .corps-formulaire .boite{
 form .corps-formulaire .gauche .boite input{
     margin-top: 5px;
     padding: 10px rpx 10px 30px;
-    border: 20px solid #c9c9c9;
+    border: 5px solid #c9c9c9;
     outline-color: #747cdf;
     border-radius: 5px;
 }
